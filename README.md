@@ -63,8 +63,9 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 ⭲  |2B72 
 ⭳  |2B73 
 
-# Sample:UML
-## 入力元文字
+# Sample
+## UML
+### 入力元文字 Input
 ```
 ╭────╮
 │クラス図│
@@ -94,3 +95,6 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 │所属する（）　　　│
 │脱退する（）　　　│
 └─────────┘
+```
+
+### 出力結果　Output
