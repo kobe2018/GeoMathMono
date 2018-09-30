@@ -98,3 +98,4 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 ```
 
 ### 出力結果　Output
+![UML](\Fig_sample\uml.png "タイトル")
