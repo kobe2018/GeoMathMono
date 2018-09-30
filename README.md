@@ -2,7 +2,27 @@
 フォント「migmix1m」をベースに、矢印記号も等幅フォントを目指して修正しました。目的は図解を文字で表現したかったからです。  
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. The purpose is to express the graphics with letters.  
 
-# 作成するフォントの内容
+## 欲しいフォント条件
+- 英数字、仮名と漢字と記号が全て等幅フォント
+- 罫線が鎖線にならず連続
+- 半角英数：全角文字＝1:2
+- 全角文字の縦横比＝1:1
+- 記号文字も全角等幅
+- 文字サイズ均一
+- ライセンス・フリー（改変可・商業・再配布可）
+
+## 利用したもの
+- メモ帳
+- FontForge
+- フォントのデータ
+ - 「IPAゴシック」
+ - 「Migu 1M」
+ - 「MigMix1M 」
+- Visual studio code
+- 秀丸エディタ
+- AutoCAD
+
+## 作成するフォントの内容
 項目|内容
 :-: |:-: 
 元フォント|MigMix-1m
