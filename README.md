@@ -65,7 +65,7 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 
 # Sample
 ## UML
-### 入力元文字 Input
+### 入力元文字 Input letter
 ```
 ╭────╮
 │クラス図│
@@ -98,4 +98,4 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 ```
 
 ### 出力結果　Output
-![UML](\Fig_sample\uml.png "タイトル")
+![UML](https://github.com/kobe2018/migmix1m4Fig/blob/master/Fig_sample/uml.png "UML図")
