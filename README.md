@@ -1,4 +1,4 @@
-# migmix1m4Fig
+# MigMix1M4Fig
 フォント「migmix1m」をベースに、矢印記号も等幅フォントを目指して修正しました。目的は図解を文字で表現したかったからです。  
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. The purpose is to express the graphics with letters.  
 
@@ -12,12 +12,9 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 - ライセンス・フリー（改変可・商業・再配布可）
 
 ## 利用したもの
-- メモ帳
+- メモ帳(notepad.exe)
 - FontForge
-- フォントのデータ
- - 「IPAゴシック」
- - 「Migu 1M」
- - 「MigMix1M 」
+- Font「MigMix1M 」のデータ
 - Visual studio code
 - 秀丸エディタ
 - AutoCAD
