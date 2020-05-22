@@ -1,4 +1,4 @@
-# MigMix1M4Fig
+# GeoMathMono
 フォント「MigMix-1M」のregularをベースに、矢印記号も等幅フォントを目指して修正しました。目的は図解を文字で表現したかったからです。  
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. The purpose is to express the graphics with letters.  
 
