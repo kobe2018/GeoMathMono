@@ -26,12 +26,14 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 ## 作成するフォントの内容
 項目|内容
 :-: |:-: 
-元フォント|MigMix-1M
-基準文字|罫線素片
-全角文字サイズ|1000×1000
-文字太さ|46
-文字隙間|0
+基盤フォント<br>Base fonts|MigMix-1M
+基準文字<br>Standard letter|罫線素片<br>BOX DRAWING
+基準文字太さ<br>Standard letter thickness|46
+全角文字サイズ<br>Full-width character size|1000×1000
+半角文字サイズ<br>Half-width character size|1000×500
+文字隙間<br>Character gap|0
 半角と全角の等幅比|1（英+数）:2（仮名+漢字+記号）
+
 
 # 変更したフォント
 文字|unicode番号<br>「&#x〇〇〇〇；」
