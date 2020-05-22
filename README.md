@@ -7,6 +7,7 @@ I want to express all figures, graphs and formulas in letters! You should be abl
 - 仮名と漢字 = 等幅フォント : kana and Chinese character = MonoSpace Font
 - 幾何学記号 = 等幅フォント : Geometry sign = MonoSpace Font
 - 数学記号 = 等幅フォント : Mathematical Symbol  = MonoSpace Font
+
 - 罫線が鎖線にならず連続 : The border is continuous, not a chain line.
 - 半角英数：全角文字＝1:2 : Half-width alphanumeric = 1:2
 - 全角文字の縦横比は正方形＝1:1 : The aspect ratio of full-width characters is square.1:1 
