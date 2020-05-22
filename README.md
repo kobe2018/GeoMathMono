@@ -11,7 +11,7 @@ I want to express all figures, graphs and formulas in letters! You should be abl
 - 罫線が鎖線にならず連続 : The border is continuous, not a chain line.
 - 半角英数：全角文字＝1:2 : Half-width alphanumeric = 1:2
 - 全角文字の縦横比は正方形＝1:1 : The aspect ratio of full-width characters is square.1:1 
-- なるべくライセンスが軽い（改変可・商業・再配布可）
+- 軽量ライセンス（改変可・商業・再配布可） : Lightweight License
 
 # 方法　Method
 等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
