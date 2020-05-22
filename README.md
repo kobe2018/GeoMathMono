@@ -1,14 +1,15 @@
 # 目的　Purpose
  図やグラフや数式を、すべて文字で表現したい！マークダウンなんか使わなくてもできるはずだ。  
-I want to express all figures, graphs and formulas in letters!You should be able to do that without using Markdown.  
+I want to express all figures, graphs and formulas in letters! You should be able to do that without using Markdown.  
 
 ## 欲しいフォント条件 Preferred font conditions
-- 英数字、仮名と漢字と記号が全て等幅フォント
-- 罫線が鎖線にならず連続
-- 半角英数：全角文字＝1:2
-- 全角文字の縦横比＝1:1
-- 記号文字も全角等幅
-- 文字サイズ均一
+- 英数字 = 等幅フォント : Ascii = MonoSpace Font
+- 仮名と漢字 = 等幅フォント : kana and Chinese character = MonoSpace Font
+- 幾何学記号 = 等幅フォント : Geometry sign = MonoSpace Font
+- 数学記号 = 等幅フォント : Mathematical Symbol  = MonoSpace Font
+- 罫線が鎖線にならず連続 : The border is continuous, not a chain line.
+- 半角英数：全角文字＝1:2 : Half-width alphanumeric = 1:2
+- 全角文字の縦横比は正方形＝1:1 : The aspect ratio of full-width characters is square.1:1 
 - なるべくライセンスが軽い（改変可・商業・再配布可）
 
 # 方法　Method
