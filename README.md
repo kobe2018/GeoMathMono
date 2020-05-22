@@ -1,6 +1,6 @@
 # 目的　Purpose
- 図やグラフや数式を、すべて文字で表現したい！
-I want to express all figures, graphs and formulas in letters!
+ 図やグラフや数式を、すべて文字で表現したい！マークダウンなんか使わなくてもできるはずだ。  
+I want to express all figures, graphs and formulas in letters!You should be able to do that without using Markdown.  
 
 ## 欲しいフォント条件 Preferred font conditions
 - 英数字、仮名と漢字と記号が全て等幅フォント
@@ -12,7 +12,7 @@ I want to express all figures, graphs and formulas in letters!
 - なるべくライセンスが軽い（改変可・商業・再配布可）
 
 # 方法　Method
-フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。
+等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. 
 
 ## 利用したもの
