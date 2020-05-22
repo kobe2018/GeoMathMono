@@ -18,12 +18,14 @@ Geometric_and_Math_Symbols_are_Monospaced_font -> GeoMathMono.
 等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. 
 
-## 利用したもの
-- メモ帳(notepad.exe)
+## 利用データ Usage Data
+- Font「MigMix1M 」のData
+
+## 活用ソフト Use Software
+- メモ帳 (notepad.exe)
+- 秀丸エディタ(Hidemaru editor)
 - FontForge
-- Font「MigMix1M 」のデータ
 - Visual studio code
-- 秀丸エディタ
 - AutoCAD
 
 ## 作成するフォントの内容
