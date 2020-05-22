@@ -1,8 +1,8 @@
-# GeoMathMono
-フォント「MigMix-1M」のregularをベースに、矢印記号も等幅フォントを目指して修正しました。目的は図解を文字で表現したかったからです。  
-Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. The purpose is to express the graphics with letters.  
+# 目的　Purpose
+ 図やグラフや数式を、すべて文字で表現したい！
+I want to express all figures, graphs and formulas in letters!
 
-## 欲しいフォント条件
+## 欲しいフォント条件 Preferred font conditions
 - 英数字、仮名と漢字と記号が全て等幅フォント
 - 罫線が鎖線にならず連続
 - 半角英数：全角文字＝1:2
@@ -10,6 +10,10 @@ Based on the font 'migmix1m', the arrow symbols have also been modified aiming f
 - 記号文字も全角等幅
 - 文字サイズ均一
 - なるべくライセンスが軽い（改変可・商業・再配布可）
+
+# 方法　Method
+フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。
+Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. 
 
 ## 利用したもの
 - メモ帳(notepad.exe)
