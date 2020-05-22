@@ -1,17 +1,18 @@
 # 目的　Purpose
  図やグラフや数式を、すべて文字で表現したい！マークダウンなんか使わなくてもできるはずだ。  
 I want to express all figures, graphs and formulas in letters! You should be able to do that without using Markdown.  
-
-## 欲しいフォント条件 Preferred font conditions
-- 英数字 = 等幅フォント : Ascii = MonoSpace Font
-- 仮名と漢字 = 等幅フォント : kana and Chinese character = MonoSpace Font
-- 幾何学記号 = 等幅フォント : Geometry sign = MonoSpace Font
-- 数学記号 = 等幅フォント : Mathematical Symbol  = MonoSpace Font
+Geometric_and_Math_Symbols_are_Monospaced_font -> GeoMathMono.  
   
-- 罫線が鎖線にならず連続 : The border is continuous, not a chain line.
-- 半角英数：全角文字＝1:2 : Half-width alphanumeric = 1:2
-- 全角文字の縦横比は正方形＝1:1 : The aspect ratio of full-width characters is square.1:1 
-- 軽量ライセンス（改変可・商業・再配布可） : Lightweight License
+## 欲しいフォント条件 Preferred font conditions
+1. 英数字 = 等幅フォント : Ascii = MonoSpace Font
+2. 仮名と漢字 = 等幅フォント : kana and Chinese character = MonoSpace Font
+3. 幾何学記号 = 等幅フォント : Geometry sign = MonoSpace Font
+4. 数学記号 = 等幅フォント : Mathematical Symbol  = MonoSpace Font
+  
+1. 罫線が鎖線にならず連続 : The border is continuous, not a chain line.
+1. 半角英数：全角文字＝1:2 : Half-width alphanumeric = 1:2
+1. 全角文字の縦横比は正方形＝1:1 : The aspect ratio of full-width characters is square.1:1 
+1. 軽量ライセンス（改変可・商業・再配布可） : Lightweight License
 
 # 方法　Method
 等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
