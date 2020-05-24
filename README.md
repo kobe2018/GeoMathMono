@@ -19,7 +19,7 @@ No.|conditions_En|conditions_Ja
 8|Lightweight License　|軽量ライセンス（改変可・商業・再配布可）
 
 # Method 方法
-Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. 
+Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts.  
 等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
 
 ## Usage Data 利用データ 
