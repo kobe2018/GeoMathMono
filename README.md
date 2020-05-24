@@ -1,7 +1,8 @@
 # Purpose 目的
 I want to express all figures, graphs and formulas in letters! You should be able to do that without using Markdown.  
-Geometric_and_Math_Symbols_are_Monospaced_font -> GeoMathMono.  
-図やグラフや数式を、すべて文字で表現したい！マークダウンなんか使わなくてもできるはずだ。  
+図やグラフや数式を、すべて文字で表現したい！　マークダウンを使わなくてもできるはずだ。  
+  
+Note:Geometric_and_Math_Symbols_are_Monospaced_font -> GeoMathMonospace.
   
 ## Preferred font conditions 欲しいフォント条件 
 1. Ascii = MonoSpace Font → 英数字 = 等幅フォント
@@ -14,14 +15,14 @@ Geometric_and_Math_Symbols_are_Monospaced_font -> GeoMathMono.
 1. The aspect ratio of full-width characters is square.1:1　→　全角文字の縦横比は正方形＝1:1
 1. Lightweight License　→　軽量ライセンス（改変可・商業・再配布可）
 
-# 方法　Method
-等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
+# Method 方法
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. 
+等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
 
-## 利用データ Usage Data
+## Usage Data 利用データ 
 - Font「MigMix1M 」のData
 
-## 活用ソフト Use Software
+## Use Software 活用ソフト
 - メモ帳 (notepad.exe)
 - 秀丸エディタ(Hidemaru editor)
 - FontForge
