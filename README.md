@@ -2,7 +2,7 @@
 I want to express all figures, graphs and formulas in letters! You should be able to do that without using Markdown.  
 図やグラフや数式を、すべて文字で表現したい！　マークダウンを使わなくてもできるはずだ。  
   
-Note:Geometric_and_Math_Symbols_are_Monospaced_font -> GeoMathMonospace.
+Note:"GeoMathMonospace"   ->  Geometric_and_Math_Symbols_are_Monospaced_font.
   
 ## Preferred font conditions 欲しいフォント条件 
 1. Ascii = MonoSpace Font → 英数字 = 等幅フォント
