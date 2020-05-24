@@ -5,15 +5,18 @@ I want to express all figures, graphs and formulas in letters! You should be abl
 Note:"GeoMathMonospace"   ->  Geometric_and_Math_Symbols_are_Monospaced_font.
   
 ## Preferred font conditions 欲しいフォント条件 
-1. Ascii = MonoSpace Font → 英数字 = 等幅フォント
-2. kana and Chinese character = MonoSpace Font → 仮名と漢字 = 等幅フォント
-3. Geometry sign = MonoSpace Font → 幾何学記号 = 等幅フォント
-4. Mathematical Symbol  = MonoSpace Font → 数学記号 = 等幅フォント
-  
-1. The border is continuous, not a chain line. → 罫線が鎖線にならず連続
-1. Half-width alphanumeric: Full-width character = 1:2 → 半角英数：全角文字＝1:2
-1. The aspect ratio of full-width characters is square.1:1　→　全角文字の縦横比は正方形＝1:1
-1. Lightweight License　→　軽量ライセンス（改変可・商業・再配布可）
+
+No.|conditions_En|conditions_Ja
+---|---|---
+1|Ascii = MonoSpace Font |英数字 = 等幅フォント
+2|kana and Chinese character = MonoSpace Font |仮名と漢字 = 等幅フォント
+3|Geometry sign = MonoSpace Font |幾何学記号 = 等幅フォント
+4|Mathematical Symbol  = MonoSpace Font |数学記号 = 等幅フォント
+||
+5|The border is continuous, not a chain line. |罫線が鎖線にならず連続
+6|Half-width alphanumeric: Full-width character = 1:2 |半角英数：全角文字＝1:2
+7|The aspect ratio of full-width characters is square.1:1　|全角文字の縦横比は正方形＝1:1
+8|Lightweight License　|軽量ライセンス（改変可・商業・再配布可）
 
 # Method 方法
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts. 
