@@ -9,11 +9,11 @@ Note:  補足
   
 # (2)Preferred font conditions 欲しいフォント 
 
-No.|conditions<br>条件|sample
+No.|Target character<br>対象とする文字|sample
 ---|---|---
 1|Ascii<br>英数字|ABC abc 123 
 2|kana and Chinese character<br>仮名と漢字|いろは　イロハ　漢字
-3|Geometry sign<br>幾何学記号|▶　█　〇
+3|Geometry sign<br>幾何学記号|▲　■　〇
 4|Mathematical Symbol<br>数学記号|∂　×　∇　
 
 No.|conditions<br>条件
