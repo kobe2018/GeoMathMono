@@ -2,31 +2,33 @@
 I want to express all figures, graphs and formulas in letters! You should be able to do that without using Markdown.  
 図やグラフや数式を、すべて文字で表現したい！　マークダウンを使わなくてもできるはずだ。  
   
-Note:  
-"GeoMathMonospace"   ->  Geometric and Math Symbols are Monospaced font.
+Note:  補足
+"GeoMathMonospace"   ->  Geometric and Math Symbols are Monospaced font.  
+"GeoMathMonospace"   は、 Geometric and Math Symbols　の 等幅フォントから名付けてます。
+  
   
 ## Preferred font conditions 欲しいフォント条件 
 
-No.|conditions_En|conditions_Ja
----|---|---
-1|Ascii = MonoSpace Font |英数字 = 等幅フォント
-2|kana and Chinese character = MonoSpace Font |仮名と漢字 = 等幅フォント
-3|Geometry sign = MonoSpace Font |幾何学記号 = 等幅フォント
-4|Mathematical Symbol  = MonoSpace Font |数学記号 = 等幅フォント
-||
-5|The border is continuous, not a chain line. |罫線が鎖線にならず連続
-6|Half-width alphanumeric: Full-width character = 1:2 |半角英数：全角文字＝1:2
-7|The aspect ratio of full-width characters is square.1:1　|全角文字の縦横比は正方形＝1:1
-8|Lightweight License　|軽量ライセンス（改変可・商業・再配布可）
+No.|conditions<br>条件
+---|---
+1|Ascii = MonoSpace Font<br>英数字 = 等幅フォント
+2|kana and Chinese character = MonoSpace Font <br>仮名と漢字 = 等幅フォント
+3|Geometry sign = MonoSpace Font <br>幾何学記号 = 等幅フォント
+4|Mathematical Symbol  = MonoSpace Font <br>数学記号 = 等幅フォント
+|
+5|The border is continuous, not a chain line. <br>罫線が鎖線にならず連続
+6|Half-width alphanumeric: Full-width character = 1:2 <br>半角英数：全角文字＝1:2
+7|The aspect ratio of full-width characters is square.1:1　<br>全角文字の縦横比は正方形＝1:1
+8|Lightweight License　<br>軽量ライセンス（改変可・商業・再配布可）
 
 # Method 方法
 Based on the font 'migmix1m', the arrow symbols have also been modified aiming for monospaced fonts.  
 等幅フォント「MigMix-1M」のregularをベースに、矢印記号をはじめとした幾何学記号や数学記号を等幅フォントに追加・修正しました。  
 
-## Usage Data 利用データ 
+## Usage Data 利用したデータ 
 - Font「MigMix1M 」のData
 
-## Use Software 活用ソフト
+## Use Software フォント修正に使用したソフト
 - メモ帳 (notepad.exe)
 - 秀丸エディタ(Hidemaru editor)
 - FontForge
