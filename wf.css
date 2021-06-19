@@ -1,4 +1,4 @@
 @font-face {
-    src: url("./m8.ttf") format('truefont');
     font-family: 'GeoMathMono';
+    src: url("./m8.ttf") format('truetype');
 }
