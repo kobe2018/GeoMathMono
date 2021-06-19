@@ -1,0 +1,8 @@
+@font-face {
+    src: url("./m8.ttf");
+    font-family: 'GeoMathMono';
+}
+
+.geo {
+	font-family: 'GeoMathMono';
+}
