@@ -5,7 +5,7 @@
 <meta charset="utf-8" />
 <style>
 @font-face {
-    src: url('./m6.ttf') format('truetype');
+    src: url('./m8.ttf') format('truetype');
     font-family: 'GeoMathMono';
 }  
 textarea{
